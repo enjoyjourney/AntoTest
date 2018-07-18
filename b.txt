@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wbuhao
+=======
+nihaoya
+>>>>>>> mergedemo
