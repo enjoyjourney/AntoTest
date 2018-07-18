@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 hello world!我的天
-=======
 分支合并
-
->>>>>>> mergedemo
